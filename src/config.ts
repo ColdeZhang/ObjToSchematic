@@ -15,7 +15,7 @@ export class AppConfig {
     public readonly VERSION_TYPE: 'd' | 'a' | 'r' = 'd'; // dev, alpha, or release build
     public readonly MINECRAFT_VERSION = '1.20.1';
 
-    public readonly LOCALE = 'en-GB';
+    public readonly LOCALE = 'zh-CN';
     public readonly VOXEL_BUFFER_CHUNK_SIZE = 50_000;
     public readonly AMBIENT_OCCLUSION_OVERRIDE_CORNER = true;
     public readonly USE_WORKER_THREAD = true;
