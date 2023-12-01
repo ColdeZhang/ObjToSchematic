@@ -15,10 +15,10 @@ export type TLocaleDefinition = {
 };
 
 export const locales = [
+    zh_CN,
     en_GB,
     en_US,
     ru_RU,
-    zh_CN,
     fr_FR,
     ja_JP,
 ];
